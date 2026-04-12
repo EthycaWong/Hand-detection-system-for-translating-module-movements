@@ -1,4 +1,4 @@
-# Hand-detection-system-for-translating-module-movements
+# Hovering Robotic Arm Project - By Ethan Wong
 This repo is a hand detection system I made in Python that detects your hands using your built in computer camera. This project is the embodiment of my progression towards my hover robotic arm.
 
 The main purpose of this project is for educational purposes and also to accomplish what I have seen rarely done.
